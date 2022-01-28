@@ -8,6 +8,8 @@
     <classes>
       <class name="testcases.SignInTestcases"/>
 	  <class name="testcases.SignInTestcases2"/>
+	    <class name="testcases.SignInTestcases3"/>
+	    
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
